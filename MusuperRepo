@@ -1,0 +1,3 @@
+root@896cf839cf9a:/# git clone https://{ Git Access Token}@github.com/{fatiab23}/{MysuperRepo}.git                  
+Cloning into '{MysuperRepo}'...
+warning: You appear to have cloned an empty repository.   
